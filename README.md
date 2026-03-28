@@ -51,7 +51,7 @@ Open → Generate or add tasks → Complete tasks to earn points → View progre
 ## ⚡ Setup (Run in 2 Minutes)
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/yoloholoknow/zenith.git
+   git clone https://github.com/yoloholoknow/zenith_legacy.git
    ```
 2. Open Zenith.xcodeproj in Xcode.
 3. Select a simulator or device.
@@ -63,13 +63,6 @@ Open → Generate or add tasks → Complete tasks to earn points → View progre
 - Support widgets and notifications.  
 - Enhance error handling for network/AI calls.  
 - Expand AI insights with richer recommendations.  
-
----
-
-## 🙏 Credits & Inspiration
-- Built using [CodeDreams](https://codedreams.app/).  
-- Icons from SF Symbols.  
-- Inspiration from productivity and gamification apps.  
 
 ---
 
